@@ -19,7 +19,7 @@ RUN apt-get update && apt-get install -qqy --no-install-recommends \
     git \
     build-essential \
     python \
-    python3.7\
+    python3\
     procps \
     rsync \
     curl \
